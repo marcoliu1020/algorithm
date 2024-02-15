@@ -1,4 +1,6 @@
 ## Developed live on twitch
+[Course](https://frontendmasters.com/courses/algorithms/linear-search-kata-setup/)
+
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
 ## Naming
